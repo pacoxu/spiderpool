@@ -12,6 +12,7 @@
 ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/weizhoublue/e1d3c092d1b9f61f1c8e36f09d2809cb/raw/spiderpoole2e.json)
 ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/weizhoublue/cd9ef69f5ba8724cb4ff896dca953ef4/raw/spiderpooltodo.json)
 ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/weizhoublue/38d00a872e830eedb46870c886549561/raw/spiderpoolperformance.json)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpacoxu%2Fspiderpool.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpacoxu%2Fspiderpool?ref=badge_shield)
 ***
 
 **English** | [**简体中文**](./README-zh_CN.md)
@@ -116,3 +117,6 @@ Refer to [demo](./docs/usage/basic.md).
 ## License
 
 Spiderpool is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpacoxu%2Fspiderpool.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpacoxu%2Fspiderpool?ref=badge_large)
